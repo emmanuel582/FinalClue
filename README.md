@@ -212,7 +212,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support, questions, or feature requests:
-- 📧 Email: [your-email@example.com]
+- 📧 Email: emmanuelwritecode@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/emmanuel582/FinalClue/issues)
 - 📖 Documentation: [Wiki](https://github.com/emmanuel582/FinalClue/wiki)
 
