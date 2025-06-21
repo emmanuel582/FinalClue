@@ -1,0 +1,11 @@
+google-generativeai==0.3.2
+requests==2.31.0
+pandas==2.0.3
+numpy==1.24.3
+dataclasses==0.8
+langchain==0.0.352
+langchain-google-genai==0.0.6
+transformers==4.35.2
+torch==2.1.1
+huggingface-hub==0.19.4
+python-dotenv==1.0.0
